@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Bug
+description: 提交BUG
 title: "[BUG]: "
 labels: ["bug", "triage"]
 assignees:

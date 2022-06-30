@@ -1,5 +1,5 @@
-name: Feature Request
-description: File a feature request
+name: 功能需求
+description: 提交功能
 title: "[FEAT_REQUEST]: "
 labels: ["feat", "fr", "feat_request"]
 assignees:
