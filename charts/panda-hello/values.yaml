@@ -1,0 +1,8 @@
+replicaCount: 1
+
+imagePullSecrets: ""
+
+image:
+  repository: xmgo/panda-hello
+  tag: 0.3.0
+  pullPolicy: Always
