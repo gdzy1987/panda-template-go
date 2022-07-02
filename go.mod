@@ -1,6 +1,6 @@
 module github.com/XM-GO/panda-template-go
 
-go 1.17
+go 1.18
 
 require (
 	github.com/XM-GO/panda-kit v0.0.0-20220630073032-337ddfd094e0

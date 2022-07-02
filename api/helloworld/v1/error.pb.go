@@ -119,7 +119,7 @@ func file_api_helloworld_v1_error_proto_rawDescGZIP() []byte {
 }
 
 var file_api_helloworld_v1_error_proto_enumTypes = make([]protoimpl.EnumInfo, 1)
-var file_api_helloworld_v1_error_proto_goTypes = []interface{}{
+var file_api_helloworld_v1_error_proto_goTypes = []any{
 	(Error)(0), // 0: helloworld.v1.Error
 }
 var file_api_helloworld_v1_error_proto_depIdxs = []int32{

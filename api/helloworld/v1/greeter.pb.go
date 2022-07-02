@@ -186,7 +186,7 @@ func file_api_helloworld_v1_greeter_proto_rawDescGZIP() []byte {
 }
 
 var file_api_helloworld_v1_greeter_proto_msgTypes = make([]protoimpl.MessageInfo, 2)
-var file_api_helloworld_v1_greeter_proto_goTypes = []interface{}{
+var file_api_helloworld_v1_greeter_proto_goTypes = []any{
 	(*HelloRequest)(nil),  // 0: helloworld.v1.HelloRequest
 	(*HelloResponse)(nil), // 1: helloworld.v1.HelloResponse
 }
@@ -206,7 +206,7 @@ func file_api_helloworld_v1_greeter_proto_init() {
 		return
 	}
 	if !protoimpl.UnsafeEnabled {
-		file_api_helloworld_v1_greeter_proto_msgTypes[0].Exporter = func(v interface{}, i int) interface{} {
+		file_api_helloworld_v1_greeter_proto_msgTypes[0].Exporter = func(v any, i int) any {
 			switch v := v.(*HelloRequest); i {
 			case 0:
 				return &v.state
@@ -218,7 +218,7 @@ func file_api_helloworld_v1_greeter_proto_init() {
 				return nil
 			}
 		}
-		file_api_helloworld_v1_greeter_proto_msgTypes[1].Exporter = func(v interface{}, i int) interface{} {
+		file_api_helloworld_v1_greeter_proto_msgTypes[1].Exporter = func(v any, i int) any {
 			switch v := v.(*HelloResponse); i {
 			case 0:
 				return &v.state
