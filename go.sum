@@ -36,6 +36,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/XM-GO/panda-kit v0.0.0-20220630073032-337ddfd094e0 h1:TkVc0duW3PcVzKKC0TfBTFQ6bPtOrSmX0hGu4l2tLx0=
 github.com/XM-GO/panda-kit v0.0.0-20220630073032-337ddfd094e0/go.mod h1:xeGdtcBlBfBZ//3I5uB2BAGOhpm50qNE5MFx+XOSjDo=
+github.com/XM-GO/panda-kit v0.0.0-20220702005146-afde41ec722d h1:6UGGXkhjmdcadJqpKx1/vPFNz+5/kZNdTXYS9Vky+UQ=
+github.com/XM-GO/panda-kit v0.0.0-20220702005146-afde41ec722d/go.mod h1:yDVkt6LTh53XUd2jrXJaj59PZUrveMcUBmnFALhB+8o=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=

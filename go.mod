@@ -3,7 +3,7 @@ module github.com/XM-GO/panda-template-go
 go 1.18
 
 require (
-	github.com/XM-GO/panda-kit v0.0.0-20220630073032-337ddfd094e0
+	github.com/XM-GO/panda-kit v0.0.0-20220702005146-afde41ec722d
 	github.com/emicklei/go-restful v2.15.0+incompatible
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0
 	google.golang.org/genproto v0.0.0-20220211171837-173942840c17
