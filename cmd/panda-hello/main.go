@@ -55,7 +55,7 @@ func main() {
 	}
 
 	if err := app.Run(context.TODO()); err != nil {
-		panic(err)
+		panic(any(err))
 	}
 
 	stop := make(chan os.Signal, 1)
@@ -63,6 +63,6 @@ func main() {
 	<-stop
 
 	if err := app.Stop(context.TODO()); err != nil {
-		panic(err)
+		panic(any(err))
 	}
 }

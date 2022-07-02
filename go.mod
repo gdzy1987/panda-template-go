@@ -3,16 +3,18 @@ module github.com/XM-GO/panda-template-go
 go 1.18
 
 require (
-	github.com/XM-GO/panda-kit v0.0.0-20220702005146-afde41ec722d
+	github.com/XM-GO/panda-kit v1.0.0
 	github.com/emicklei/go-restful v2.15.0+incompatible
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0
-	google.golang.org/genproto v0.0.0-20220211171837-173942840c17
-	google.golang.org/grpc v1.44.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/genproto v0.0.0-20220630174209-ad1d48641aa7
+	google.golang.org/grpc v1.47.0
+	google.golang.org/protobuf v1.28.0
 )
 
 require (
+	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-playground/form/v4 v4.2.0 // indirect
+	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
